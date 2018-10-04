@@ -1,0 +1,9 @@
+Protein,SeqType,Affinity
+Lab,Labial Preference for Lab/Ubx,0.000134953054584382
+Ubx,Labial Preference for Lab/Ubx,2.58001783626922e-06
+Lab,UbxIVa Preference for Lab/Ubx,0.00130592194220139
+Ubx,UbxIVa Preference for Lab/Ubx,0.00399667179224837
+Lab,Labial Preference for Lab/Max,0.0253498616173135
+Max,Labial Preference for Lab/Max,2.48446817172419e-15
+Lab,Max Preference for Lab/Max,2.70927024382837e-05
+Max,Max Preference for Lab/Max,0.222944737888828
