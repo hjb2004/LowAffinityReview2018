@@ -37,6 +37,7 @@ logo(fits = lab, index = 1, ylim=c(-5,5), save.path = "LabUbxDiff.pdf", display 
 lab.top.seq = max.seq(lab, 1)$BestSeq
 lab[[2]][[1]]$NB = ubx.betas-lab.betas 
 ubx.top.seq = max.seq(lab, 1)$BestSeq
+logo(fits = lab, index = 1, ylim=c(-5,5), save.path = "LabUbxDiffFlipped.pdf", display = F)
 
 # record affinities
 df = data.frame(Protein="Lab", SeqType="Labial Preference for Lab/Ubx", Affinity = 1, stringsAsFactors = FALSE)
